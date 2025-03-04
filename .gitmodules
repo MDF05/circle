@@ -1,0 +1,8 @@
+[submodule "Frontend"]
+	path = fe-circle
+	url = https://github.com/MDF05/fe-circle.git
+
+
+[submodule "Backend"]
+	path = be-circle
+	url = https://github.com/MDF05/be-circle.git
