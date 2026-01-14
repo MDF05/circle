@@ -21,7 +21,7 @@ This project and everyone participating in it is governed by the [Circle Code of
 *   Git
 
 ### Development Setup
-1.  Clone the repo: `git clone https://github.com/your-username/circle.git`
+1.  Clone the repo: `git clone https://github.com/MDF05/circle.git`
 2.  Navigate to the folder: `cd circle`
 3.  Install dependencies for both backend and frontend.
 

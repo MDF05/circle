@@ -11,10 +11,10 @@ Start by checking the existing documentation.
 *   [Common Issues](./FAQs.md) (Coming Soon)
 
 ### 2. GitHub Discussions
-For general questions, feature requests, or discussions, please use our [GitHub Discussions](https://github.com/your-username/circle/discussions).
+For general questions, feature requests, or discussions, please use our [GitHub Discussions](https://github.com/MDF05/circle/discussions).
 
 ### 3. GitHub Issues
-If you believe you have found a bug or a specific issue, please check the [existing issues](https://github.com/your-username/circle/issues) first. If you don't see it, feel free to [open a new one](https://github.com/your-username/circle/issues/new).
+If you believe you have found a bug or a specific issue, please check the [existing issues](https://github.com/MDF05/circle/issues) first. If you don't see it, feel free to [open a new one](https://github.com/MDF05/circle/issues/new).
 
 ## Commercial Support
 Currently, Circle is a community-maintained project and does not offer commercial support.
