@@ -47,7 +47,7 @@ The Circle platform consists of the following primary sub-projects:
 ### 1. Backend (`be-circle`)
 The server-side application responsible for API handling, database interactions, and authentication.
 *   **Tech Stack**: Node.js, Express, TypeScript, Prisma, PostgreSQL, Redis, Cloudinary.
-*   **Location**: [`./be-circle`](./be-circle/README.md)
+*   **Location**: [`./be-circle`](https://github.com/MDF05/be-circle/blob/main/README.md)
 
 ### 2. Frontend (`fe-circle`)
 The client-side application providing the user interface and user experience.
@@ -70,13 +70,13 @@ To get a local copy of the project up and running, follow these simple steps.
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/your-username/circle.git
+    git clone https://github.com/MDF05/circle.git
     cd circle
     ```
 
 2.  **Install Dependencies**
     Refer to the individual sub-project READMEs for specific installation instructions.
-    *   [Backend Setup Guide](./be-circle/README.md)
+    *   [Backend Setup Guide](https://github.com/MDF05/be-circle/blob/main/README.md)
     *   [Frontend Setup Guide](./fe-circle/README.md)
 
 ---
@@ -104,7 +104,7 @@ This section serves as the **central navigation hub** for all project documentat
 *   [**SUPPORT.md**](./SUPPORT.md) - Where to find help and ask questions.
 
 ### Sub-Project Documentation
-*   [**Backend Documentation**](./be-circle/README.md)
+*   [**Backend Documentation**](https://github.com/MDF05/be-circle/blob/main/README.md)
 *   [**Frontend Documentation**](./fe-circle/README.md)
 
 ---
@@ -137,4 +137,4 @@ Distributed under the **ISC License**. See [`LICENSE`](./LICENSE) for more infor
 
 *   **Circle Team** - *Initial Work*
 
-Project Link: [https://github.com/your-username/circle](https://github.com/your-username/circle)
+Project Link: [https://github.com/MDF05/circle](https://github.com/MDF05/circle)
