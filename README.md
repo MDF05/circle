@@ -52,7 +52,7 @@ The server-side application responsible for API handling, database interactions,
 ### 2. Frontend (`fe-circle`)
 The client-side application providing the user interface and user experience.
 *   **Tech Stack**: React, Vite, TypeScript, Chakra UI, Redux Toolkit.
-*   **Location**: [`./fe-circle`](./fe-circle/README.md)
+*   **Location**: [`./fe-circle`](https://github.com/MDF05/fe-circle/blob/main/README.md)
 
 ---
 
@@ -77,7 +77,7 @@ To get a local copy of the project up and running, follow these simple steps.
 2.  **Install Dependencies**
     Refer to the individual sub-project READMEs for specific installation instructions.
     *   [Backend Setup Guide](https://github.com/MDF05/be-circle/blob/main/README.md)
-    *   [Frontend Setup Guide](./fe-circle/README.md)
+    *   [Frontend Setup Guide](https://github.com/MDF05/fe-circle/blob/main/README.md)
 
 ---
 
@@ -105,7 +105,7 @@ This section serves as the **central navigation hub** for all project documentat
 
 ### Sub-Project Documentation
 *   [**Backend Documentation**](https://github.com/MDF05/be-circle/blob/main/README.md)
-*   [**Frontend Documentation**](./fe-circle/README.md)
+*   [**Frontend Documentation**](https://github.com/MDF05/fe-circle/blob/main/README.md)
 
 ---
 
